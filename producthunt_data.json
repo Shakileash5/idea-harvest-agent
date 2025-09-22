@@ -1,0 +1,1012 @@
+[
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:26.156911",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:26.156962",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:26.156988",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:26.157007",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:26.157032",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:27.564476",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:27.564533",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:27.564548",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:27.564562",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:27.564575",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:29.022363",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:29.022419",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:29.022435",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:29.022449",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:29.022463",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:30.511196",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:30.511241",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:30.511264",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:30.511281",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:30.511299",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:31.959915",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:31.959961",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:31.959978",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:31.959991",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:31.960004",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:33.736322",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:33.736379",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:33.736395",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:33.736407",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:33.736420",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:35.197802",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:35.197818",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:35.197827",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:35.197835",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:35.197842",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:36.637938",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:36.638040",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:36.638055",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:36.638068",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:36.638090",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:38.107409",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:38.107431",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:38.107446",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:38.107458",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:38.107470",
+    "tags": [
+      "help",
+      "want"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Teable",
+    "content": "Teable turns all your data into action. From customer data and invoice data to batch marketing image & copy generation, everything about data work is easier than ever.",
+    "tagline": "The AI database agent that transforms data into action",
+    "comments": [
+      "Hey PH! I’m Bieber, founder of Teable.\nAfter 8 years building B2B tools I learned this: most teams don’t need more code—they need faster outcomes from data.\nTeable is the AI Database Agent that turns one prompt into live databases, apps, automations, and insights.\n\nWhat you can do in minutes\n- 🧲 Full lead funnel: landing page → CRM → email alerts (≈3 min)\n- 📊 Talk to data: query, visualize, and get instant insights from millions of records\n- 🧾 Bath file processing: organize files and extract vendor/date/total/tax from invoice PDFs\n- 🖼️ Bath design: generate product images, copy, and video scripts\n- 💬 Feedback analyzer: auto-tag sentiment and draft replies on import \n\nWhy teams choose Teable\n- ⚡ Zero setup · RBAC · millions of rows with millisecond response\n- 👐 Open-source roots, no-code friendly, dev-ready when you need it\n\nWe’d love your feedback: What problem would you solve first with Teable?\n✨ Drop it below—we’re listening! 🚴‍♂️",
+      "<p>Integration with more third-party tools (e.g. specific marketing platforms) would make this more widely applicable.</p>",
+      "<p>Seems useful, especially the invoice processing part. But is there a steep learning curve? TBH</p>",
+      "<p>Great congrats for your launch! Can't wait to visit Teable for dealing with my data work.😊</p>",
+      "<p>I’ve been using Teable for a while now and I really love it! 🚀</p><p>It’s a multidimensional database product similar to Airtable, but with the ability to handle much larger database. What really impressed me is the AI integration — you can describe what you need in natural language, and the AI quickly builds an entire database template for you. Super easy to get started.</p><p>The most outstanding part for me is the AI-powered app generation based on the database. We’ve all seen AI-generated websites or reports, but most of them are disconnected from real data, which makes them less practical. Teable is different — the apps are generated directly from your database, with data syncing in real time. That means what you generate is immediately usable. Truly impressive!</p><p>Big shoutout to the Teable team — hope you keep pushing forward and making the product even stronger! 🙌</p>"
+    ],
+    "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 166,
+    "comments_count": 9,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:40.082270",
+    "tags": [
+      "marketing"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Grok 4 Fast",
+    "content": "Grok 4 Fast is xAI's latest multimodal reasoning model, setting a new standard for cost-efficient intelligence. With a 2M token context window, it achieves a SOTA price-to-performance ratio. It's now available for free in the Grok app.",
+    "tagline": "Pushing the frontier of cost-efficient intelligence",
+    "comments": [
+      "<p>Hi everyone!<br><br>xAI's new Grok 4 Fast is built around a pretty compelling pitch.<br><br>It's fast (~190 tokens per second). It's cheap (API pricing is $0.20 / 1M input and $0.50 / 1M output tokens). And <a href=\"https://artificialanalysis.ai/models/grok-4-fast-reasoning\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">according to Artificial Analysis</a>, this gives it a new SOTA price-to-intelligence ratio.<br><br>But the most important part is the accessibility. For a limited time, it's completely free for developers on platforms like <a href=\"https://openrouter.ai/x-ai/grok-4-fast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OpenRouter</a>. And it's also free for all users in the Grok app on web, iOS, and Android.<br><br>So, when a model is this fast, this cheap, and free for everyone to try right now... <a href=\"https://grok.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">what's the reason not to?</a></p>",
+      "<p>This looks really cool! I'm really impressed by how Grok 4 Fast makes AI more accessible without sacrificing quality. That cost, efficient approach is a game changer for so many developers and businesses.</p><p></p><p>I'm curious, how does the fast processing feature work? Does it use specific algorithms to speed things up, or is it more about resource management? </p><p></p><p>I've seen so many discussions about how people are struggling to afford the high costs of AI solutions. Your product seems like it could really help out in that area. </p><p></p><p>If you're looking to connect with more developers or businesses facing these challenges, I know some groups that would definitely appreciate what you're building. Engaging with those discussions could really highlight how Grok 4 Fast can make a difference.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/JHWmnBfukg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>Congrats! What steps is xAI taking to address Grok 4 Fast’s extreme sensitivity to small prompt changes, which causes inconsistent outputs and makes it difficult to rely on the model for production workflows?</p>",
+      "awesome!!!!! 💯",
+      "<p>2M token context window is impressive, but curious about the memory optimization under the hood? Handling long sequences without OOM errors ain't easy.</p>"
+    ],
+    "url": "https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 164,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:40.082298",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "Caladan",
+    "content": "Your AI copilot for smarter fundraising. Search 5,000+ VCs, craft personalized outreach, and build meaningful connections. Create a professional founder profile to share in your emails and stand out from the crowd.",
+    "tagline": "AI fundraising copilot to connect wth 5,000+ VCs",
+    "comments": [
+      "Caladan helped me connect with 12 VCs in my first month. The AI copilot found investors who actually fit my stage and industry - no more spray and pray. It's like having an experienced fundraiser guiding every step.",
+      "<p>This is brilliant! The idea of having an AI, powered tool to connect startups with over 5,000 VCs is really impressive. I can't help but wonder how the AI, powered matching works. Does it take into account the specific needs of both the startups and the investors?</p><p></p><p>I've seen so many discussions about how tough it is for founders to find the right investors who really understand their industry. It sounds like Caladan is stepping in at just the right time to help with that struggle.</p><p></p><p>If you're looking to connect with more startup founders or entrepreneurs, I know some great communities that would totally benefit from what you're building. Engaging with those discussions could really get the word out since so many people could use this kind of support.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/DAGE6QS9ul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "I was actually looking for a tool like Caladan",
+      "<p>Hey everyone, thanks for voting. I’ve shifted the business model since building this product, however, I still have this tool fully built and ready to go. If you’re interested in using it, please comment below and I’ll share it with you.</p><p></p><p>Thanks,</p><p>Matthew Taksa</p>",
+      "Very excited to try this for my next projects. Kudos to the team on the launch"
+    ],
+    "url": "https://www.producthunt.com/products/caladan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 148,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:40.082313",
+    "tags": []
+  },
+  {
+    "source": "producthunt",
+    "title": "TimeTune",
+    "content": "TimeTune helps you organize your day into clear time blocks, build reusable routines, and track where your time actually goes. With templates, reminders, stats & schedule flexibility, it brings structure and calm to busy lives.",
+    "tagline": "Time-blocking routines, zero schedule chaos",
+    "comments": [
+      "We’re excited to introduce TimeTune – Your Structured Day Planner ⏱️\n\nEver feel like your day slips away &amp; you end up doing things reactively instead of intentionally? TimeTune changes that. It lets you block out time for what matters—your work, rest, learning, or even your hobbies—and helps you stick to it.\n\n✨ Here’s what makes TimeTune powerful:\n\nTime-blocking approach: Break your day into segments (tasks, routines, work, rest) so every hour has purpose. \nGoogle Play\n\nReusable templates: Build routines like morning rituals or weekly schedules once, then reuse them easily. \nGoogle Play\n\nCustom reminders: Stay on track with notifications using sounds, vibrations, or voice cues—whatever works for you. \nGoogle Play\n\nInsightful stats: See where your time is actually going—spot patterns or time leaks so you can adjust. \nGoogle Play\n\nRoutine flexibility: Plan your work shifts or daily chores with clarity &amp; adapt when things change. \nGoogle Play\n\nIf you want to move from chaos to clarity, from reactive days to intentional ones, TimeTune might be your tool. Whether you're dealing with ADHD, trying to balance work &amp; life, or just want more calm in your schedule—this one helps.",
+      "<p>Love how TimeTune makes time-blocking practical and flexible. Turning chaotic days into intentional ones is something so many people need. Congrats on the launch <a href=\"https://www.producthunt.com/@diallo_souleymane\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@diallo_souleymane</a> </p>",
+      "<p>This looks really cool! I’m super impressed with the routine templates feature. It must make scheduling so much easier to just reuse what works for you. How does it handle different scenarios, like workdays versus weekends?</p><p></p><p>I’ve seen a lot of discussions lately about how tough it can be to keep days organized, with people feeling like they're always reacting instead of planning. This really seems like it could help folks break that cycle.</p><p></p><p>If you're looking to connect with more people who struggle with time management, I know some communities that would definitely benefit from what you’re offering. It might be a great way to engage with those conversations since so many people are in need of a solution like this.</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/hnf71XX3GE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>This is exactly the productivity hack we've been waiting for! The template feature alone could disrupt the $3B time-management industry. VC's should be all over this!</p>",
+      "<p>Honestly, the reusable routine templates are such a lifesaver—I've wasted so much time setting up the same schedule every week! Is there a way to share templates with friends too?</p>"
+    ],
+    "url": "https://www.producthunt.com/products/timetune-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 131,
+    "comments_count": 5,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:40.082327",
+    "tags": [
+      "help"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "title": "Sparky for Chrome",
+    "content": "Sparky for Chrome helps you save the things that matter—in the simplest way possible. — Save any link with one click. — Right-click to capture images or highlight text you want to keep. — Jot down quick notes without leaving your browser.",
+    "tagline": "Easy capture while browsing. Seamlessly sync to you iPhone.",
+    "comments": [
+      "We built Sparky for Chrome to make it effortless to save the things that matter—links, highlights, ideas—right as they happen, while you're browsing.\n\nBut this is just the start.\n\n✨ Sparky is your AI-powered Note Taker &amp; Planner, designed to help you stay organized, think clearly, and grow over time.\n\nWith one click on Chrome, anything you capture is instantly synced to the Sparky mobile app, where Sparky helps you turn fragments into structure—summaries, todos, reflections, and insights. \n\nThink of this extension as your “idea inbox”—fast capture here, smart organization and planning on mobile.\n\nWould love to hear how you use it—and what you'd love to see next. 🚀",
+      "<p>Wow, this looks really cool! The one, click capture feature is such a game changer for people who hate interrupting their browsing. It’s nice that you’ve made saving content so effortless.</p><p></p><p>I'm curious how the cross, device sync actually works. Do you need to set anything up on your iPhone or does it just happen automatically?</p><p></p><p>I've seen so many posts about the struggle of taking screenshots and emailing them to yourself just to access things on your phone. This seems like such a perfect solution for those frustrations.</p><p></p><p>If you're looking to connect with digital professionals or students, I know some communities that would totally benefit from what you’re building. It might be worth diving into those discussions because a lot of people could really use Sparky in their workflow!</p><p></p><p>here's what people are saying: <a href=\"https://quickmarketfit.com/discussions/Kubak6HsRr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://quickmarketfit.com/discu...</a></p>",
+      "<p>The minimalist design aesthetic of this extension is chef's kiss! Noticed those delightful micro-interactions in the right-click menu, though mobile sync sometimes be buffering...</p>",
+      "<p>Nice work! handy for keeping ideas from slipping away. Good luck on the launch!</p>"
+    ],
+    "url": "https://www.producthunt.com/products/sparky-for-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+idea-harvest-agent+%28ID%3A+226215%29",
+    "votes": 124,
+    "comments_count": 6,
+    "created_at": "2025-09-21T07:01:00Z",
+    "timestamp": "2025-09-21T16:57:40.082340",
+    "tags": [
+      "help",
+      "want"
+    ]
+  }
+]

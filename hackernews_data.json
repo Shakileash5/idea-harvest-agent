@@ -1,0 +1,20 @@
+[
+  {
+    "source": "hackernews",
+    "title": "What Makes System Calls Expensive: A Linux Internals Deep Dive",
+    "content": "",
+    "comments": [
+      "On a secure system (not serving to the Internet, and all trusted local users), you can add &quot;mitigations=off&quot; to greatly improve performance.<p><a href=\"https:&#x2F;&#x2F;fosspost.org&#x2F;disable-cpu-mitigations-on-linux\" rel=\"nofollow\">https:&#x2F;&#x2F;fosspost.org&#x2F;disable-cpu-mitigations-on-linux</a>",
+      "The article quotes the Intel docs: &quot;Instruction ordering: Instructions following a SYSCALL may be fetched from memory before earlier instructions complete execution, but they will not execute (even speculatively) until all instructions prior to the SYSCALL have completed execution (the later instructions may execute before data stored by the earlier instructions have become globally visible).&quot;<p>More detail here would be great, especially using the terms &quot;issue&quot; and &quot;commit&quot; rather than execute.<p>A barrier makes sense to me, but preventing instructions from issuing seems like too hard of a requirement, how could anyone tell?",
+      "There are so many extra steps, obviously the CPU is designed for legacy monolithic OS like Windows which uses syscalls rarely and would work slowly with much safer and better, than Windows, microkernels.<p>For example, why bother saving userspace registers? Just zero them out to prevent leaks. Ideally with a single instruction.",
+      "Linux used to deliver relatively low syscall overhead esp. on modern aggressively speculating CPUs.<p>But after spectre+meltdown mitigations landed it felt like the 1990s all over again where syscall overhead was a huge cost relative to the MIPS available."
+    ],
+    "url": "https://news.ycombinator.com/item?id=45313439",
+    "score": 67,
+    "created_utc": 1758376401,
+    "timestamp": "2025-09-20T19:23:21",
+    "tags": [
+      "expensive"
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "source": "reddit",
+    "subreddit": "SideProject",
+    "title": "I wish there was a tool to I wish there was a tool to",
+    "content": "I'm looking for a solution to I wish there was a tool to. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/SideProject/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:00.242823",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "SideProject",
+    "title": "Anyone know a good tool for I wish there was a tool to?",
+    "content": "I've been struggling with I wish there was a tool to and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/SideProject/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:00.242855",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "SmallBusiness",
+    "title": "I wish there was a tool to Feature request:",
+    "content": "I'm looking for a solution to Feature request:. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/SmallBusiness/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:08.893699",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "SmallBusiness",
+    "title": "Anyone know a good tool for Feature request:?",
+    "content": "I've been struggling with Feature request: and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/SmallBusiness/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:08.893712",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "YouTubers",
+    "title": "I wish there was a tool to I need a tool to",
+    "content": "I'm looking for a solution to I need a tool to. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/YouTubers/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:13.461007",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "YouTubers",
+    "title": "Anyone know a good tool for I need a tool to?",
+    "content": "I've been struggling with I need a tool to and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/YouTubers/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:13.461031",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "ecommerce",
+    "title": "I wish there was a tool to Anyone recommend a tool for",
+    "content": "I'm looking for a solution to Anyone recommend a tool for. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/ecommerce/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:16.544666",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "ecommerce",
+    "title": "Anyone know a good tool for Anyone recommend a tool for?",
+    "content": "I've been struggling with Anyone recommend a tool for and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/ecommerce/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:16.544678",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "reactjs",
+    "title": "I wish there was a tool to alternatives to",
+    "content": "I'm looking for a solution to alternatives to. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/reactjs/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:18.660599",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "reactjs",
+    "title": "Anyone know a good tool for alternatives to?",
+    "content": "I've been struggling with alternatives to and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/reactjs/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:18.660611",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "sysadmin",
+    "title": "I wish there was a tool to anyone built",
+    "content": "I'm looking for a solution to anyone built. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/sysadmin/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:22.556408",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "sysadmin",
+    "title": "Anyone know a good tool for anyone built?",
+    "content": "I've been struggling with anyone built and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/sysadmin/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:22.556440",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "freelance",
+    "title": "I wish there was a tool to Please add",
+    "content": "I'm looking for a solution to Please add. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/freelance/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:25.756090",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "freelance",
+    "title": "Anyone know a good tool for Please add?",
+    "content": "I've been struggling with Please add and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/freelance/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:25.756096",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "FulfillmentByAmazon",
+    "title": "I wish there was a tool to wish there was a tool",
+    "content": "I'm looking for a solution to wish there was a tool. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/FulfillmentByAmazon/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:27.321105",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "FulfillmentByAmazon",
+    "title": "Anyone know a good tool for wish there was a tool?",
+    "content": "I've been struggling with wish there was a tool and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/FulfillmentByAmazon/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:27.321131",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "startups",
+    "title": "I wish there was a tool to Too expensive",
+    "content": "I'm looking for a solution to Too expensive. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/startups/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:35.197415",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "startups",
+    "title": "Anyone know a good tool for Too expensive?",
+    "content": "I've been struggling with Too expensive and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/startups/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:35.197429",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "DesignJobs",
+    "title": "I wish there was a tool to How do you automate",
+    "content": "I'm looking for a solution to How do you automate. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/DesignJobs/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:44.024446",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "DesignJobs",
+    "title": "Anyone know a good tool for How do you automate?",
+    "content": "I've been struggling with How do you automate and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/DesignJobs/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:44.024475",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "Excel",
+    "title": "I wish there was a tool to Looking for a solution to",
+    "content": "I'm looking for a solution to Looking for a solution to. Current options are too expensive or don't work well.",
+    "comments": [
+      "I use X but it's not great",
+      "Try Y tool",
+      "I need something simpler"
+    ],
+    "url": "https://reddit.com/r/Excel/mock1",
+    "score": 15,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:47.539930",
+    "tags": [
+      "automation",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "source": "reddit",
+    "subreddit": "Excel",
+    "title": "Anyone know a good tool for Looking for a solution to?",
+    "content": "I've been struggling with Looking for a solution to and need recommendations.",
+    "comments": [
+      "Buffer is good but expensive",
+      "Try Hootsuite",
+      "I built my own"
+    ],
+    "url": "https://reddit.com/r/Excel/mock2",
+    "score": 8,
+    "created_utc": 1640995200,
+    "timestamp": "2025-09-22T20:58:47.540081",
+    "tags": [
+      "recommendation",
+      "tool",
+      "help"
+    ]
+  }
+]
