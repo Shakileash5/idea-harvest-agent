@@ -180,7 +180,7 @@ class RedditScraper:
             logging.info(f"🔍 Searching r/{subreddit} ({i}/{len(SUBREDDITS)})")
             
             # Get top posts from subreddit
-            results = self.search_subreddit(subreddit, '', limit=10)
+            results = self.search_subreddit(subreddit, 'is there a tool for', limit=10)
             all_results.extend(results)
             logging.info(f"✅ r/{subreddit}: {len(results)} posts found")
             
